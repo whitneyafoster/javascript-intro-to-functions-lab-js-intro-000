@@ -17,14 +17,14 @@ function logWhisper(Hello) {
 
 function sayHiToGrandma('hello') {
   if (Hello.toLowerCase())
-  return ("I can\'t hear you!")
+  return "I can\'t hear you!"
 }
 
 function sayHiToGrandma('HELLO') {
   if (Hello.toUpperCase())
-  return ("YES INDEED!")
+  return "YES INDEED!"
 }
 
   function sayHiToGrandma("I love you, Grandma.") {
-    return ("I love you, too.")
+    return "I love you, too."
 }
