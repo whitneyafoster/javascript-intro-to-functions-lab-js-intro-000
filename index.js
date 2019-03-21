@@ -18,5 +18,6 @@ function sayHiToGrandma(Hello) {
   if (Hello.toUpperCase)
   return ("YES INDEED!")
 
-  else sayHiToGrandma(I love you) {
+  else sayHiToGrandma("I love you")
     return ("I love you too")
+}
