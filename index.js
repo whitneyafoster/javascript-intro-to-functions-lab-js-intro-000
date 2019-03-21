@@ -20,8 +20,8 @@ function sayHiToGrandma(string) {
   return "I can\'t hear you!"
 }
 
-function sayHiToGrandma('HELLO') {
-  if (Hello.toUpperCase())
+function sayHiToGrandma(string) {
+  if (string.toUpperCase())
   return "YES INDEED!"
 }
 
