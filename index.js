@@ -5,12 +5,16 @@ function shout(Hello) {
 function whisper(Hello) {
   return Hello.toLowerCase()
 }
+
 function logShout(Hello) {
   console.log(Hello.toUpperCase);
+  
 }
+
 function logWhisper(Hello) {
   console.log(Hello.toLowerCase);
 }
+
 function sayHiToGrandma('hello') {
   if (Hello.tolowercase)
   return ("I can\'t hear you!")
